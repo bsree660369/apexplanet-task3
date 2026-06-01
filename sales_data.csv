@@ -1,0 +1,11 @@
+OrderID,Category,Sales,Month
+101,Furniture,1200,Jan
+102,Technology,3000,Jan
+103,Office Supplies,800,Feb
+104,Furniture,1500,Feb
+105,Technology,2500,Mar
+106,Office Supplies,900,Mar
+107,Furniture,1800,Apr
+108,Technology,3500,Apr
+109,Office Supplies,1000,May
+110,Furniture,2000,May
